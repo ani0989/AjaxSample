@@ -1,10 +1,4 @@
 <?php
-/*
-	Title :  Ajax username validation with php and mysql
-	Author : Anand Roshan
-	Author URI : http://voidtricks.com
-	Documentation : http://voidtricks.com/
-*/
 
 $db_user = "YOUR_DB_USER";
 $db_password = "YOUR_DB_PASSWORD";
